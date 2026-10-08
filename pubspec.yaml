@@ -1,0 +1,16 @@
+name: kt_9
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.11.1
+  elementary: ^3.2.1
+
+flutter:
+  uses-material-design: true
